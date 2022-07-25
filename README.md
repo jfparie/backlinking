@@ -10,7 +10,7 @@ We examine websites supported by SEO-company UpMention through backlinking. Clie
 - <a href="www.inholland.nl" target="_blank">Inholland</a>;
 - <a href="www.vattenfall.nl" target="_blank">Vattenfall</a>.
 
-Clusters of backlinking sources as identified in the data are indicated in [notebook]. Development of #backlinks over time for 4/5 companies:
+Clusters of backlinking sources as identified in the data are indicated in [notebook]. Development of #backlinks over time for 4/5 companies is shown below.
 
 ## Demag
 ![image](/images/demag_timeline.png)
