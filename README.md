@@ -16,12 +16,12 @@ Clusters of backlinking sources as identified in the data are indicated in [note
 ![image](/images/demag_timeline.png)
 
 ## Djoser
-![image](/images/djoser_timeline.png.png)
+![image](/images/Djoser_timeline.png)
 
 ## EeStairs
 ![image](/images/eestairs_timeline.png)
 
 ## Vattenfall
-![image](/images/vattenfall_timeline.png)
+![image](/images/Vattenfall_timeline.png)
 
 
