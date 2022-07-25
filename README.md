@@ -10,4 +10,6 @@ We examine websites supported by SEO-company UpMention through backlinking. Clie
 - <a href="www.eestairs.com" target="_blank">EeStairs</a>;
 - <a href="www.demag.nl" target="_blank">Demag</a>.
 
-Clusters of backlinking sources as identified in the data are indicated in [notebook]. 
+Clusters of backlinking sources as identified in the data are indicated in [notebook]. Development of #backlinks over time for 4/5 companies:
+
+![image](/images/demag_timeline)
