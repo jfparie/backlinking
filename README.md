@@ -12,4 +12,4 @@ We examine websites supported by SEO-company UpMention through backlinking. Clie
 
 Clusters of backlinking sources as identified in the data are indicated in [notebook]. Development of #backlinks over time for 4/5 companies:
 
-![image](/images/demag_timeline)
+![image](/images/demag_timeline.png)
