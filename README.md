@@ -15,7 +15,7 @@ Clusters of backlinking sources are indicated in the notebook <a href="https://g
 - On photo-website <a href="https://www.flickr.com/people/sanderovski/.nl" target="_blank">Flickr</a>, the profile of a Dutch radio DJ is used to backlink to Upmention's website. Click on the website mentioned: flowdown.nl.
 - The Swhalian Wikipedia page about <a href="https://sw.wikipedia.org/wiki/Intaneti" target="_blank">Internet</a> is used to backlink to www.upmention.nl. Click on the link ’No cure no pay zoekmachine optimalisatie’ at the bottom of the page.
 
-Development of  the number of backlinks over time for 2/3 company websites is shown below. Source: <a href="https://ahrefs.com" target="_blank">www.ahrefs.com</a>.
+Development of the number of backlinks over time for djoser.nl and vattefall.nl are shown below. Source: <a href="https://ahrefs.com" target="_blank">www.ahrefs.com</a>.
 
 ## Djoser
 ![image](/images/Djoser_timeline.png)
